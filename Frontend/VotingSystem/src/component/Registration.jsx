@@ -28,7 +28,7 @@ export const Registration = () => {
                 <input type="text" placeholder="Password" /><br/>
 
                 {/*state*/}
-
+                <label>Select State: </label>
                 <select value={selectState}
                         onChange={handleStateChange}>
 
