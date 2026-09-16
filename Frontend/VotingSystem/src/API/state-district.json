@@ -1,0 +1,182 @@
+{
+  "Gujarat": [
+    "Ahmedabad",
+    "Amreli",
+    "Anand",
+    "Aravalli",
+    "Banaskantha",
+    "Bharuch",
+    "Bhavnagar",
+    "Botad",
+    "Chhota Udaipur",
+    "Dahod",
+    "Dang",
+    "Devbhumi Dwarka",
+    "Gandhinagar",
+    "Gir Somnath",
+    "Jamnagar"
+  ],
+
+  "Maharashtra": [
+    "Mumbai City",
+    "Thane",
+    "Ratnagiri",
+    "Pune",
+    "Sangli",
+    "Kolhapur",
+    "Dhule",
+    "Ahilyanagar",
+    "Chhatrapati Sambhajinagar",
+    "Parbhani",
+    "Beed",
+    "Dharashiv",
+    "Nagpur",
+    "Bhandara",
+    "Gadchiroli"
+  ],
+
+  "Madhya Pradesh": [
+    "Agar Malwa",
+    "Alirajpur",
+    "Anuppur",
+    "Ashoknagar",
+    "Balaghat",
+    "Barwani",
+    "Betul",
+    "Bhind",
+    "Bhopal",
+    "Burhanpur",
+    "Chhatarpur",
+    "Chhindwara",
+    "Damoh",
+    "Datia",
+    "Dewas"
+  ],
+
+  "Goa": [
+    "North Goa",
+    "South Goa"
+  ],
+
+  "Uttar Pradesh": [
+    "Agra",
+    "Aligarh",
+    "Ambedkar Nagar",
+    "Amethi",
+    "Amroha",
+    "Auraiya",
+    "Ayodhya",
+    "Azamgarh",
+    "Baghpat",
+    "Bahraich",
+    "Ballia",
+    "Balrampur",
+    "Banda",
+    "Barabanki",
+    "Bareilly"
+  ],
+
+  "Bihar": [
+    "Patna",
+    "Nalanda",
+    "Bhojpur",
+    "Rohtas",
+    "Buxar",
+    "Kaimur",
+    "Saran",
+    "Siwan",
+    "Gopalganj",
+    "Muzaffarpur",
+    "West Champaran",
+    "East Champaran",
+    "Sitamarhi",
+    "Sheohar",
+    "Vaishali"
+  ],
+
+  "Tamil Nadu": [
+    "Ariyalur",
+    "Chengalpattu",
+    "Chennai",
+    "Coimbatore",
+    "Cuddalore",
+    "Dharmapuri",
+    "Dindigul",
+    "Erode",
+    "Kallakurichi",
+    "Kancheepuram",
+    "Karur",
+    "Krishnagiri",
+    "Madurai",
+    "Mayiladuthurai",
+    "Nagapattinam"
+  ],
+
+  "Kerala": [
+    "Thiruvananthapuram",
+    "Kollam",
+    "Pathanamthitta",
+    "Alappuzha",
+    "Kottayam",
+    "Idukki",
+    "Ernakulam",
+    "Thrissur",
+    "Palakkad",
+    "Malappuram",
+    "Kozhikode",
+    "Wayanad",
+    "Kannur",
+    "Kasaragod"
+  ],
+
+  "Karnataka": [
+    "Bagalkot",
+    "Ballari",
+    "Belagavi",
+    "Bengaluru Rural",
+    "Bengaluru Urban",
+    "Bidar",
+    "Chamarajanagar",
+    "Chikkaballapur",
+    "Chikkamagaluru",
+    "Chitradurga",
+    "Dakshina Kannada",
+    "Davanagere",
+    "Dharwad",
+    "Gadag",
+    "Hassan"
+  ],
+
+  "Delhi": [
+    "North Delhi",
+    "Central Delhi",
+    "New Delhi",
+    "East Delhi",
+    "West Delhi",
+    "South Delhi",
+    "North East Delhi",
+    "North West Delhi",
+    "South West Delhi",
+    "South East Delhi",
+    "Shahdara"
+  ],
+
+  "Haryana": [
+    "Ambala",
+    "Bhiwani",
+    "Charkhi Dadri",
+    "Faridabad",
+    "Fatehabad",
+    "Gurugram",
+    "Hisar",
+    "Jhajjar",
+    "Jind",
+    "Kaithal",
+    "Karnal",
+    "Kurukshetra",
+    "Mahendragarh",
+    "Nuh",
+    "Palwal"
+  ]
+}
+
